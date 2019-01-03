@@ -5,34 +5,34 @@
 
     <!-- Display Profiles Window Bar -->
     <system:String x:Key="Monitor">Monitor</system:String>
-    <system:String x:Key="Projector">Projector</system:String>
+    <system:String x:Key="Projector">Proyector</system:String>
     <system:String x:Key="TV">TV</system:String>
 
     <!-- Misc -->
-    <system:String x:Key="LoadingApplication">Loading Application. Please wait...</system:String>
+    <system:String x:Key="LoadingApplication">Cargando Aplicación. Por favor, espere...</system:String>
     <system:String x:Key="SwitchToCompactGui">Switch to compact gui size.</system:String>
     <system:String x:Key="SwitchToNormalGui">Switch to normal gui size.</system:String>
     <system:String x:Key="MinimizeToTray">Minimize window to system tray.</system:String>
-    <system:String x:Key="ChangeLanguage">Change Language</system:String>
-    <system:String x:Key="Close">Close</system:String>
+    <system:String x:Key="ChangeLanguage">Cambiar Idioma</system:String>
+    <system:String x:Key="Close">Cerrar</system:String>
     
-    <system:String x:Key="Show">Show</system:String>
-    <system:String x:Key="NoMatchFound">No Match found for</system:String>
+    <system:String x:Key="Show">Mostrar</system:String>
+    <system:String x:Key="NoMatchFound">Sin coincidencias para</system:String>
 
     <!-- Tab header title -->
-    <system:String x:Key="Installation">Installation</system:String>
-    <system:String x:Key="EditProfile">Edit Profile</system:String>
-    <system:String x:Key="NewProfile">New Profile</system:String>
+    <system:String x:Key="Installation">Instalación</system:String>
+    <system:String x:Key="EditProfile">Editar Perfil</system:String>
+    <system:String x:Key="NewProfile">Nuevo Perfil</system:String>
     <system:String x:Key="Hotkeys">Hotkeys</system:String>
-    <system:String x:Key="Settings">Settings</system:String>
-    <system:String x:Key="About">About</system:String>
+    <system:String x:Key="Settings">Ajustes</system:String>
+    <system:String x:Key="About">Acerca de</system:String>
     <system:String x:Key="GeneralSettings">Application Settings</system:String>
-    <system:String x:Key="Nvidia3DSettings">Nvidia 3D Settings</system:String>
-    <system:String x:Key="DisplayProfiles">Display Profiles</system:String>
+    <system:String x:Key="Nvidia3DSettings">Ajustes Nvidia 3D</system:String>
+    <system:String x:Key="DisplayProfiles">Perfiles De Pantalla</system:String>
 
     <!-- Game list on left column-->
-    <system:String x:Key="All">All Games</system:String>
-    <system:String x:Key="Installed">Installed Games</system:String>
+    <system:String x:Key="All">Todos Los Juegos</system:String>
+    <system:String x:Key="Installed">Juegos Instalados</system:String>
     <system:String x:Key="AllFixTypes">All Fix Types</system:String>
     <system:String x:Key="_3dmigoto">3dmigoto</system:String>
     <system:String x:Key="Helixmod">Helixmod</system:String>
