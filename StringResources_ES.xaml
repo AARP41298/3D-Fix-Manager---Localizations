@@ -37,24 +37,24 @@
     <system:String x:Key="_3dmigoto">3dmigoto</system:String>
     <system:String x:Key="Helixmod">Helixmod</system:String>
     <system:String x:Key="OpenGLwrapper">OpenGL Wrapper</system:String>
-    <system:String x:Key="NotFixed">Without 3D Fix</system:String>
+    <system:String x:Key="NotFixed">Sin Arreglo 3D</system:String>
     <system:String x:Key="VerifiedFixes">Arreglos 3D Verificados</system:String>
     <system:String x:Key="UnverifiedFixes">Arreglos 3D Sin Verificar</system:String>
     <system:String x:Key="New">Nuevo</system:String>
-    <system:String x:Key="CreateProfileToolTip">Create Fix Profile</system:String>
-    <system:String x:Key="Edit">Edit</system:String>
-    <system:String x:Key="EditProfileToolTip">Edit Fix Profile</system:String>
-    <system:String x:Key="Delete">Delete</system:String>
-    <system:String x:Key="DeleteProfileToolTip">Remove Fix Profile</system:String>
+    <system:String x:Key="CreateProfileToolTip">Crear Perfil de Arreglo</system:String>
+    <system:String x:Key="Edit">Editar</system:String>
+    <system:String x:Key="EditProfileToolTip">Edit Perfil de Arreglo</system:String>
+    <system:String x:Key="Delete">Eliminar</system:String>
+    <system:String x:Key="DeleteProfileToolTip">Eliminar Perfil de Arreglo</system:String>
 
     <!-- Installation Tab -->
-    <system:String x:Key="NoGamesInstalled">No compatible games installed.</system:String>
-    <system:String x:Key="Play2D">Play 2D</system:String>
-    <system:String x:Key="Play3D">Play 3D</system:String>
-    <system:String x:Key="InstallFix">Install 3D Fix</system:String>
-    <system:String x:Key="InstallFixCompleted">Install completed</system:String>
-    <system:String x:Key="BackupRecoveryFailed">Backup recovery failed.</system:String>
-    <system:String x:Key="InstallFixFailed">Install failed. Check Install Path</system:String>
+    <system:String x:Key="NoGamesInstalled">No hay juegos compatibles instalados.</system:String>
+    <system:String x:Key="Play2D">Jugar en 2D</system:String>
+    <system:String x:Key="Play3D">Jugar en 3D</system:String>
+    <system:String x:Key="InstallFix">Instalar Arreglo 3D</system:String>
+    <system:String x:Key="InstallFixCompleted">Instalación Completada</system:String>
+    <system:String x:Key="BackupRecoveryFailed">Recuperacion del Respaldo Fallida.</system:String>
+    <system:String x:Key="InstallFixFailed">Instalación fallida. Revisar la ubicación del juego.</system:String>
     <system:String x:Key="InstallFixFailed02" xml:space="preserve">Error: Fix could not be installed.&#x0d;&#x0d;Make sure 3D Fix Manager is started with admin rights and try again.</system:String>
     <system:String x:Key="InstallWrapperFailed" xml:space="preserve">Error: Wrapper could not be installed.&#x0d;&#x0d;Make sure 3D Fix Manager is started with admin rights and try again.</system:String>
     <system:String x:Key="FixWrapperOutdated">This fix includes an outdated version of 3dmigoto.</system:String>
